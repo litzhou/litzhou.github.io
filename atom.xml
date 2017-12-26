@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://litzhou.github.io/"/>
-  <updated>2017-12-25T08:55:46.509Z</updated>
+  <updated>2017-12-25T08:25:32.924Z</updated>
   <id>http://litzhou.github.io/</id>
   
   <author>
@@ -15,29 +15,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>APP应用软件开发流程是怎样的？</title>
-    <link href="http://litzhou.github.io/2017/12/25/APP%E5%BA%94%E7%94%A8%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91%E6%B5%81%E7%A8%8B%E6%98%AF%E6%80%8E%E6%A0%B7%E7%9A%84/"/>
-    <id>http://litzhou.github.io/2017/12/25/APP应用软件开发流程是怎样的/</id>
-    <published>2017-12-25T08:49:39.000Z</published>
-    <updated>2017-12-25T08:55:46.509Z</updated>
-    
-    <content type="html"><![CDATA[<p>前往知乎，参考其他公司APP开发流程<br>地址：<a href="https://www.zhihu.com/question/21325644" target="_blank" rel="noopener">https://www.zhihu.com/question/21325644</a></p><p><img src="https://pic4.zhimg.com/0a4397ff775db2e1210bc72abfd5d653_r.jpg"></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;前往知乎，参考其他公司APP开发流程&lt;br&gt;地址：&lt;a href=&quot;https://www.zhihu.com/question/21325644&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.zhihu.com/question/
-      
-    
-    </summary>
-    
-    
-      <category term="软件工程" scheme="http://litzhou.github.io/tags/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/"/>
-    
-  </entry>
   
   <entry>
     <title>JAVA8十大新特性详解</title>
