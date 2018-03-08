@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://litzhou.com/about/index.html</loc>
+    
+    <lastmod>2018-03-08T03:50:26.705Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://litzhou.com/os/index.html</loc>
+    
+    <lastmod>2018-03-08T03:47:27.017Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://litzhou.com/2017/12/03/%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%85%A8Html%E5%92%8CCSS%E5%B8%83%E5%B1%80%E6%8A%80%E5%B7%A7/</loc>
     
     <lastmod>2018-03-08T03:36:31.360Z</lastmod>
@@ -79,23 +93,9 @@
   </url>
   
   <url>
-    <loc>http://litzhou.com/about/index.html</loc>
-    
-    <lastmod>2017-12-29T08:36:55.105Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://litzhou.com/msg/index.html</loc>
     
     <lastmod>2017-12-29T06:24:19.426Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://litzhou.com/os/index.html</loc>
-    
-    <lastmod>2017-12-29T05:36:45.106Z</lastmod>
     
   </url>
   
